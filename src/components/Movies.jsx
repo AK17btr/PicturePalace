@@ -23,7 +23,7 @@ export const Movies = ({handleAddtoCheckList , handRemoveFromChecklist , checkli
   }
 
   useEffect(() => {
-      axios.get(`https://api.themoviedb.org/3/movie/popular?api_key=918498870ed04ed78d7f2a99f9ebe895&language=en-US&page=${pageNo}`).then(function (res) {
+      axios.get(`https://api.themoviedb.org/3/movie/popular?api_key=useyourownkwyhere&language=en-US&page=${pageNo}`).then(function (res) {
           console.log(res.data);
           setMovies(res.data.results);
       });
