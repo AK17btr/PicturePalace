@@ -13,13 +13,10 @@ Contact
 Project Overview
 Picture Palace is a popular movies explore web application built with React. It allows users to check, view, and manage movies in a visually appealing and user-friendly interface.
 
-Features
-Image Upload: Users can upload images to the gallery.
-Image Viewing: Browse through the uploaded images in a gallery view.
-Image Details: Click on an image to view its details and metadata.
-Responsive Design: The application is fully responsive and works on all devices.
-Search Functionality: Users can search for images by keywords or tags.
-Image Categorization: Organize images into categories for easy navigation.
+Usage
+Browsing Movies and TV Shows: Explore the homepage to see featured movies and TV shows.
+Searching: Use the search bar to find movies, TV shows, actors, or directors by name.
+Favorites: Add movies and TV shows to your favorites list by clicking the "Add to Favorites" button.
 
 Installation
 To get a local copy up and running, follow these steps:
@@ -44,14 +41,14 @@ Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to see the application in action.//this may not work currently
 
-Usage
+
 Features
 Movie Listings: Browse through a vast collection of movies and TV shows.
 Movie Details: View detailed information about movies, including cast, crew, synopsis, and ratings.
 Search Functionality: Search for movies, TV shows, actors, and directors.
 User Reviews: Read and submit user reviews for movies and TV shows.
 Responsive Design: The application is fully responsive and works on all devices.
-Favorites: Users can add movies and TV shows to their favorites list
+Favorites: Users can add movies and TV shows to their favorites list.
 
 Technologies Used
 React: Frontend framework
